@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [rohitgadekar.com](rohitgadekar.com)
 
-- 💬 Ask me about **c c++ java html5 css javascript node express react**
+- 💬 Ask me about **〣 C 〣 C++ 〣 Java 〣 Html5 〣 CSS 〣 Javascript 〣 Node 〣 Express 〣 React 〣**
 
 - 📫 How to reach me **rohitgadekar86@gmail.com**
 
