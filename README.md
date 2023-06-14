@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/rohitgadekar7" target="blank"><img src="https://img.shields.io/twitter/follow/rohitgadekar7?logo=twitter&style=for-the-badge" alt="rohitgadekar7" /></a> </p>
 
