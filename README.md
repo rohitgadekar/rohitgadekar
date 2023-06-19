@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitgadekar7" target="blank"><img src="https://img.shields.io/twitter/follow/rohitgadekar7?logo=twitter&style=for-the-badge" alt="rohitgadekar7" /></a> </p>
 
-- 🔭 I’m currently working on **React-Redux**
+- 🔭 I’m currently working on **COLIVE**
 
 - 👨‍💻 All of my projects are available at [rohitgadekar.com/projects](rohitgadekar.com/projects)
 
