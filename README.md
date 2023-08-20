@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **COLIVE**
 
-- 👨‍💻 All of my projects are available at [rohitgadekar.com/projects](rohitgadekar.com/projects)
-
-- 📝 I regularly write articles on [rohitgadekar.com](rohitgadekar.com)
+- 👨‍💻 All of my projects are available at [rohitgadekar.com/](rohitgadekar.com/)
 
 - 💬 Ask me about **〣 C 〣 C++ 〣 Java 〣 Html5 〣 CSS 〣 Javascript 〣 Node 〣 Express 〣 React 〣**
 
