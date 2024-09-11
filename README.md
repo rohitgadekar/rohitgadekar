@@ -6,11 +6,11 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <br>
 
-- 🔭 I’m currently working on pulse (ecommerce shopping website)
+- 🔭 I’m currently working on kimui (React Component Library)
 - 🌱 I’m currently learning **DSA**
 - 💬 Ask me about **React, NextJS, Express, NodeJS, MongoDB, MySQL**
 - 📫 How to reach me **rohitgadekar86@gmail.com**
-- 👨‍💻 All of my projects are available at **https://www.rohitgadekar.com/projects**
+- 👨‍💻 All of my projects are available at **https://www.rohitgadekar.dev/projects**
 
 - ⚡ Fun fact **I use tabs over spaces**
 
