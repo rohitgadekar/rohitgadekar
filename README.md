@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on docked.pro
 - 💬 Ask me about **React, NextJS, Express, NodeJS, MongoDB, MySQL**
 - 📫 How to reach me **rohitgadekar86@gmail.com**
-- 👨‍💻 All of my projects are available at **https://www.rohitgadekar.dev/projects**
+- 👨‍💻 All of my projects are available at **https://www.docked.pro/rohit**
 
 - ⚡ Fun fact **I use tabs over spaces**
 
