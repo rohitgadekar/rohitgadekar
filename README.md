@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitgadekar&label=PROFILE+VIEWS&color=000000&labelColor=23d1ce&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rohitgadekar&label=PROFILE+VIEWS&color=23d1ce&labelColor=23d1ce&style=for-the-badge" alt="Profile views" />
   <a href="https://linkedin.com/in/itsrohitgadekar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hello@rohitgadekar.dev"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=&logoColor=white" alt="Email" /></a>
   <a href="https://www.dockly.pro/rohit"><img src="https://img.shields.io/badge/portfolio-%237C3AED.svg?style=for-the-badge&logo=&logoColor=white" alt="Portfolio" /></a>
