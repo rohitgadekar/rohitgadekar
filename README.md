@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitgadekar&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://linkedin.com/in/itsrohitgadekar"><img src="https://img.shields.io/badge/LinkedIn-itsrohitgadekar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hello@rohitgadekar.dev"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.dockly.pro/rohit"><img src="https://img.shields.io/badge/Portfolio-dockly.pro%2Frohit-222?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rohitgadekar&label=PROFILE+VIEWS&color=000000&labelColor=23d1ce&style=for-the-badge" alt="Profile views" />
+  <a href="https://linkedin.com/in/itsrohitgadekar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hello@rohitgadekar.dev"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=&logoColor=white" alt="Email" /></a>
+  <a href="https://www.dockly.pro/rohit"><img src="https://img.shields.io/badge/portfolio-%237C3AED.svg?style=for-the-badge&logo=&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
