@@ -1,101 +1,83 @@
-<div align="center">
-<img src="https://static.wixstatic.com/media/b5e621_2ed73ba3a01045899a687ef47f45cd9b~mv2.gif" align="center" style="width: 100%" style="height:50%"/>
-</div>
 
-<h1 align="center">Hi, I'm Rohit</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<br>
 
-- 🔭 I’m currently working on docked.pro
-- 💬 Ask me about **React, NextJS, Express, NodeJS, MongoDB, MySQL**
-- 📫 How to reach me **rohitgadekar86@gmail.com**
-- 👨‍💻 All of my projects are available at **https://www.docked.pro/rohit**
+<h1 align="center">Hi, I'm Rohit 👋</h1>
 
-- ⚡ Fun fact **I use tabs over spaces**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itsrohitgadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="itsrohitgadekar" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Automation/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-&nbsp
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+India;I+build+with+React+%26+Next.js;Node.js+%7C+Express+%7C+MongoDB+%7C+MySQL;I+use+tabs+over+spaces" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgadekar&layout=compact&theme=radical" alt=rohitgadekar />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitgadekar&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/itsrohitgadekar"><img src="https://img.shields.io/badge/LinkedIn-itsrohitgadekar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rohitgadekar86@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.dockly.pro/rohit"><img src="https://img.shields.io/badge/Portfolio-dockly.pro%2Frohit-222?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitgadekar&theme=radical" alt="rohitgadekar" /></p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+## 👨‍💻 About Me
+
+I'm a passionate full-stack developer from India who enjoys turning ideas into fast, clean, and useful web products. I work across the whole stack: building responsive interfaces in **React** and **Next.js**, designing APIs with **Node.js** and **Express**, and modelling data in **MongoDB** and **MySQL**.
+
+- 🔭 Currently working on **Orbit - Private music streaming app**
+- 📍 Based in Pune, India
+- 💬 Ask me about **React, Next.js, Express, Node.js, MongoDB, MySQL**
+- ⚡ Fun fact: I use **tabs over spaces**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts" alt="Languages" />
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,tailwind,bootstrap,css" alt="Frontend" />
+
+**Backend & Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet" alt="Backend" />
+
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" alt="Databases" />
+
+**DevOps & Cloud**<br>
+<img src="https://skillicons.dev/icons?i=docker,gcp,heroku,linux,bash,git" alt="DevOps" />
+
+**Design & Testing**<br>
+<img src="https://skillicons.dev/icons?i=figma,blender,postman,selenium" alt="Design and testing" />
+
+---
+
+## 🧭 What I Do
+
+- 🖥️ **Frontend:** component-driven UIs with React/Next.js, Redux for state, Tailwind or Bootstrap for styling
+- ⚙️ **Backend:** REST APIs and server logic with Node.js and Express, plus auth and validation
+- 🗄️ **Data:** schema design and querying in MongoDB and MySQL
+- 📦 **Shipping:** containerising with Docker, deploying to Heroku, Firebase, and Google Cloud
+- 🎨 **Design sense:** prototyping in Figma and testing APIs in Postman
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<a href="https://github.com/rohitgadekar">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitgadekar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitgadekar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitgadekar&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitgadekar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitgadekar&theme=radical" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=rohitgadekar&theme=radical" alt="GitHub streak" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitgadekar&theme=redical"/>
+
+---
+
+## ⚡ Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitgadekar&theme=redical" alt="Activity graph" width="100%" />
+
+---
+
+## 📫 Let's Connect
+
+Have an idea, a project, or just want to talk code? I'd love to hear from you.
+
+- 📧 **Email:** [hello@rohitgadekar.dev](mailto:hello@rohitgadekar.dev)
+- 💼 **LinkedIn:** [itsrohitgadekar](https://linkedin.com/in/itsrohitgadekar)
+- 🌐 **Portfolio:** [dockly](https://www.dockly.pro/rohit)
+
+<p align="center"><i>Thanks for stopping by, and happy coding! ✨</i></p>
